@@ -14,7 +14,7 @@
 
 ## 2- Instalacion de la maquina 🛠
 
-Para realizar la instalación se requiere de un software de virtualización. En este tutorial haremos uso de [VirtualBox](https://www.virtualbox.org/). Si ya tienes VirtualBox instalado y dispones de la ISO Debian ya podemos empezar con el tutorial.
+Para realizar la instalación se requiere de un software de virtualización. Haremos uso de [VirtualBox](https://www.virtualbox.org/). Si ya tienes VirtualBox instalado y dispones de la ISO Debian ya puedes empezar.
 
 ## 3- Archivo YML 📄
 
